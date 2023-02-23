@@ -1,0 +1,38 @@
+
+[
+    {
+        "model": "tunaapi.genre",
+        "pk": 1,
+        "fields": {
+            "description": "Pop"
+        }
+    },
+    {
+        "model": "tunaapi.genre",
+        "pk": 2,
+        "fields": {
+            "description": "Rock"
+        }
+    },
+    {
+        "model": "tunaapi.genre",
+        "pk": 3,
+        "fields": {
+            "description": "Emo"
+        }
+    },
+    {
+        "model": "tunaapi.genre",
+        "pk": 4,
+        "fields": {
+            "description": "R&B"
+        }
+    },
+    {
+        "model": "tunaapi.genre",
+        "pk": 5,
+        "fields": {
+            "description": "Indie"
+        }
+    }
+]
